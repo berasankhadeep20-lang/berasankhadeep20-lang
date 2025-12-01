@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ronniedeep04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronniedeep04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sankhadeep bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankhadeep bera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sankhadeep (ronnie) bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankhadeep (ronnie) bera" height="30" width="40" /></a>
 <a href="https://instagram.com/ronnie_deep_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronnie_deep_04" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pro evolution soccer with keyboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pro evolution soccer with keyboard" height="30" width="40" /></a>
 </p>
